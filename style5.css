@@ -42,6 +42,11 @@ body
 {
 	background-image: linear-gradient(to left, #FF00EC, #0087FF);
 }
+.origami
+{
+	width: 60px;
+	height: 60px;
+}
 
 /*--------------accordion--------------*/
 
