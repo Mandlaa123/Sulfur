@@ -1,0 +1,86 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	font-family: sans-serif;
+}
+#nav-bar
+{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+.navbar
+{
+	background-image: linear-gradient(to right, #00D8FF, #8F00FF);
+	padding: 0 !important;
+}
+.navbar-brand img
+{
+	height: 40px;
+	padding-left: 20px;
+}
+.navbar-nav li
+{
+	padding: 0 10px;
+}
+.nav-bar li a
+{
+	color: #fff !important;
+	font-weight: 600;
+	float: right;
+	text-align: left;
+}
+.navbar-toggler
+{
+	outline: none !important;
+}
+.dropdown-menu
+{
+	background-image: linear-gradient(to left, #FF00EC, #0087FF);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
